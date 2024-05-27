@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rest-countries-api/static/css/main.d2d06d00.css",
-    "main.js": "/rest-countries-api/static/js/main.90b15920.js",
+    "main.css": "/rest-countries-api/static/css/main.1c0c3316.css",
+    "main.js": "/rest-countries-api/static/js/main.6626e270.js",
     "static/media/fa-solid-900.ttf": "/rest-countries-api/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/rest-countries-api/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/rest-countries-api/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/rest-countries-api/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/rest-countries-api/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/rest-countries-api/index.html",
-    "main.d2d06d00.css.map": "/rest-countries-api/static/css/main.d2d06d00.css.map",
-    "main.90b15920.js.map": "/rest-countries-api/static/js/main.90b15920.js.map"
+    "main.1c0c3316.css.map": "/rest-countries-api/static/css/main.1c0c3316.css.map",
+    "main.6626e270.js.map": "/rest-countries-api/static/js/main.6626e270.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2d06d00.css",
-    "static/js/main.90b15920.js"
+    "static/css/main.1c0c3316.css",
+    "static/js/main.6626e270.js"
   ]
 }
